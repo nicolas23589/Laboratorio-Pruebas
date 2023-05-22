@@ -1,2 +1,2 @@
 # Laboratorio-Pruebas
-21705/2023
+Archivo de texto en la carpeta test/source/DiscotiendaTest.Java :)
